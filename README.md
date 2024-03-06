@@ -1,2 +1,2 @@
 # green-sturgeon-stock-assessment
-R code and Data for Estimating spawning green sturgeon abundance using side scan sonar and N-mixture models  Battaile-Mora-Lehman-Dudley 2023
+R code and data for estimating spawning green sturgeon abundance using side scan sonar and N-mixture models  Battaile, Brian C., Ethan A. Mora, Brendan M. Lehman & Peter N. Dudley. 2024.  Estimating spawning Green Sturgeon (Acipenser medirostris Ayres, 1854) abundance in the Sacramento River using side-scan sonar and N-mixture models.  Canadian Journal of Fisheries and Aquatic Sciences.
